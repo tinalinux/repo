@@ -3,7 +3,7 @@
 ## repo default configuration
 ##
 from __future__ import print_function
-REPO_URL = 'https://github.com/pd2-linux/repo'
+REPO_URL = 'https://github.com/tinalinux/repo'
 REPO_REV = 'stable'
 
 # Copyright (C) 2008 Google Inc.
